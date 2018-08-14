@@ -1,0 +1,6 @@
+/target/
+/.idea/
+/.mvn/
+
+.DS_Store
+/word-chain.iml
